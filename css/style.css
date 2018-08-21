@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+  
+body {
+    background: linear-gradient(to right, #ffff99 0%, #ff99cc 100%);
+    font-family: 'Quicksand', serif;
+    font-weight: bold;
+}
+
+img {
+    margin: auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+#title, #subtitle, .more-info{
+  text-align: center;
+  
+}
+
+#main {
+    margin: auto;
+    width: 75%;
+}
+
+#img-caption{
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    width: 85%;
+    color:#cc0000;
+}
